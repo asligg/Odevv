@@ -3,7 +3,7 @@ public class KosuYarismasi {
     private final int[] zamanlar;
     private final String[] isimler;
 
-    public Maraton(int[] zamanlar, String[] isimler) {
+    public KosuYarismasi(int[] zamanlar, String[] isimler) {
         this.zamanlar = zamanlar;
         this.isimler = isimler;
     }
